@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import Select from 'react-select';
 
-const API_URL = 'https://your-site-url/.netlify/functions/bfhl';
+const API_URL = 'https://bajaj-1-rqe6.onrender.com/bfhl';
 
 function App() {
   const [input, setInput] = useState('');
